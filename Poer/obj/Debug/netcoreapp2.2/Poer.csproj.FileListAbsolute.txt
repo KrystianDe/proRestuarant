@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\Poer.deps.json
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\Poer.runtimeconfig.json
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\Poer.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\Poer.dll
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.RazorAssemblyInfo.cache
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.RazorAssemblyInfo.cs
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\bin\Debug\netcoreapp2.2\Poer.pdb
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.dll
+C:\Users\Asus\source\repos\Pro-Restuarant\Poer\Poer\obj\Debug\netcoreapp2.2\Poer.pdb
